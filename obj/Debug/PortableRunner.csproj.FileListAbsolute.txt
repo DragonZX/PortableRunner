@@ -1,0 +1,7 @@
+C:\Users\Drago\AppData\Local\Temporary Projects\PortableRunner\bin\Debug\PortableRunner.exe.config
+e:\1 Документы\Documents\Visual Studio 2015\Projects\PortableRunner\PortableRunner\bin\Debug\PortableRunner.exe.config
+e:\1 Документы\Documents\Visual Studio 2015\Projects\PortableRunner\PortableRunner\obj\Debug\PortableRunner.csprojResolveAssemblyReference.cache
+e:\1 Документы\Documents\Visual Studio 2015\Projects\PortableRunner\PortableRunner\bin\Debug\PortableRunner.exe
+e:\1 Документы\Documents\Visual Studio 2015\Projects\PortableRunner\PortableRunner\bin\Debug\PortableRunner.pdb
+e:\1 Документы\Documents\Visual Studio 2015\Projects\PortableRunner\PortableRunner\obj\Debug\PortableRunner.exe
+e:\1 Документы\Documents\Visual Studio 2015\Projects\PortableRunner\PortableRunner\obj\Debug\PortableRunner.pdb
